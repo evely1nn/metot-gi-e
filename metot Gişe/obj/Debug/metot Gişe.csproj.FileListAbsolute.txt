@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\Ravzanur1313\metot Gişe\metot Gişe\bin\Debug\metot Gişe.exe.config
+C:\Users\User\Desktop\KORUMASIZ\Ravzanur1313\metot Gişe\metot Gişe\bin\Debug\metot Gişe.exe
+C:\Users\User\Desktop\KORUMASIZ\Ravzanur1313\metot Gişe\metot Gişe\bin\Debug\metot Gişe.pdb
+C:\Users\User\Desktop\KORUMASIZ\Ravzanur1313\metot Gişe\metot Gişe\obj\Debug\metot Gişe.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\Ravzanur1313\metot Gişe\metot Gişe\obj\Debug\metot Gişe.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\Ravzanur1313\metot Gişe\metot Gişe\obj\Debug\metot_Gişe.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\Ravzanur1313\metot Gişe\metot Gişe\obj\Debug\metot_Gişe.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\Ravzanur1313\metot Gişe\metot Gişe\obj\Debug\metot Gişe.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\Ravzanur1313\metot Gişe\metot Gişe\obj\Debug\metot Gişe.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\Ravzanur1313\metot Gişe\metot Gişe\obj\Debug\metot Gişe.exe
+C:\Users\User\Desktop\KORUMASIZ\Ravzanur1313\metot Gişe\metot Gişe\obj\Debug\metot Gişe.pdb
